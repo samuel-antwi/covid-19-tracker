@@ -19,7 +19,7 @@ const CountrySelector = () => {
           <Col md={{ span: 6, offset: 3 }}>
             <Form.Group>
               <Form.Label>
-                Select a country from the down to get the current update
+                Select a country from the dropdown to get the current update
               </Form.Label>
               <Form.Control
                 as='select'

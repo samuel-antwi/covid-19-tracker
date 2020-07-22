@@ -22,7 +22,7 @@ const About = () => {
                   </p>
                   <a
                     className='btn btn-outline-secondary mx-3'
-                    href='https://github.com/samuel-antwi'
+                    href='https://github.com/samuel-antwi/covid-19-tracker'
                     target='_blank'
                     rel='noreferre noopener'>
                     View Code
